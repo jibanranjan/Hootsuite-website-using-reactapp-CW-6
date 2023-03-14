@@ -1,0 +1,42 @@
+
+
+.maindiv{
+
+    background-color: rgb(20,48,88);
+    height: 55vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    color: white;
+}
+
+.containerdiv{
+    background-color: rgb(24, 53, 94);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 55vh ;
+    width: 90vw;
+}
+
+.h1first{
+    font-size: 3.5rem;
+}
+
+.pfirst{ font-weight: 100;
+
+
+}
+
+
+.btnfirst{
+    border: none;
+    background-color: rgb(40,134,64);
+    color: white;
+    height: 3rem;
+    width: 10rem;
+    cursor: pointer;
+    font-weight: 800;
+}

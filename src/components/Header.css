@@ -1,0 +1,84 @@
+
+.topnavbar{
+    display: flex;
+    height: 80vh;
+    justify-content: space-between;
+    gap: 9rem;
+    height: 10vh;
+    background-color: rgb(255, 255, 255);
+}
+
+.leftnavcontainer{
+    display: flex;
+    width: 100vw;
+    gap: 1rem;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+.rightnavbarcontainer{
+    display: flex;
+    width: 100vw;
+
+}
+
+img{
+    width: auto;
+ height: 50px;
+ 
+}
+
+.logopart{ display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-left: 1rem;
+        
+  
+}
+
+.leftnavlinksdiv{
+    font-size: 1.5rem;
+   display: flex;
+   width: 40vw;
+   justify-content: space-between;
+   gap: 1rem;
+   list-style: none;
+}
+
+.navlinksfirst{  text-decoration: none;
+    color: #19325b;
+    font-weight: 700;
+  
+
+}
+
+
+
+.navlinksseconddiv{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    font-size: 1.5rem;
+    justify-content: center;
+}
+
+.navlinkssecond{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    width: 10vw;
+    color: #19325b;
+    font-weight: 500;
+   
+}
+
+
+.signupbtn{
+    background-color: rgb(40,134,64);
+    height: 40px;
+    width: 110px;
+    color: white;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+}

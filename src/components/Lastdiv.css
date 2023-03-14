@@ -1,0 +1,24 @@
+
+.lastdivmain{
+    margin-top: 5rem;
+}
+
+
+.lastcontainer{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10rem;
+}
+
+
+.lasttxt{
+    color: rgb(20,48,88);
+    margin-left: 1rem;
+}
+
+.lastpara{
+    color: rgb(27, 78, 150);
+    margin-left: -4rem;
+}
